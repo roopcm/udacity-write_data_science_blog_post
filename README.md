@@ -1,4 +1,4 @@
-# Data Science Blog for udacity Project 
+# Data Science Blog for Udacity Project 
 
 ### Medium Blog Post
 Here is the Medium blog post I have written: https://medium.com/@roopcm/https://medium.com/p/d3958a436b4c/edit
