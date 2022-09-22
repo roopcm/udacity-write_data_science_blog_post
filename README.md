@@ -48,5 +48,5 @@ There are three datasets that have been provided on [Kaggle](https://www.kaggle.
 1. Airbnb_Seattle_HomeStay.ipynb
 Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
 
-2. listings.csv
+2. airbnb_listings.csv
 Original dataset in csv format, which has been obtained from Kaggle: https://www.kaggle.com/airbnb/seattle
