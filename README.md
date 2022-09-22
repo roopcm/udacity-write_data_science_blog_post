@@ -40,7 +40,7 @@ The notebook requires Python 3 to be installed as well as the following librarie
 The libraries has been installed through anaconda, a pre-packaged Python distribution.
 
 # Datasets
-There are three datasets that have been provided on [Kaggle](https://www.kaggle.com/airbnb/seattle): 
+There are three datasets that have been provided on [Kaggle](https://www.kaggle.com/airbnb/seattle): However, for this project we just chose one:
 * Listings: This dataset has all the airbnb listings in Seattle and the details corresponding to each listing. 
 
 
