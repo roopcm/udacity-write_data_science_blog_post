@@ -51,3 +51,8 @@ Jupyter notebook with complete analysis, answers to the questions, explanations 
 
 2. airbnb_listings.csv
 Original dataset in csv format, which has been obtained from Kaggle: https://www.kaggle.com/airbnb/seattle
+
+# References
+Seattle Airbnb Open Data: https://www.kaggle.com/airbnb/seattle
+
+Github: https://github.com/roopcm/udacity_write_data_science_blog
