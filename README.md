@@ -37,7 +37,8 @@ The notebook requires Python 3 to be installed as well as the following librarie
 5. matplotlib.pyplot
 6. Math
 
-The libraries has been installed through anaconda, a pre-packaged Python distribution.
+The libraries has been installed through anaconda, a pre-packaged Python distribution. In case if the exact copy for the notebook is needed, 
+please install the libraries using: pip install -r requirements.txt
 
 # Datasets
 There are three datasets that have been provided on [Kaggle](https://www.kaggle.com/airbnb/seattle): However, for this project we just chose one:
