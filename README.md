@@ -1,4 +1,4 @@
-# Data Science Blog for Udacity Project 
+#  Understanding Seattle Airbnb Dataset for Price Modeling
 
 ### Medium Blog Post
 Here is the Medium blog post I have written: https://medium.com/@mitraroopc/understanding-seattle-airbnb-dataset-d3958a436b4c
